@@ -9,4 +9,17 @@
 	<string name="about_author_explain">请访问作者的博客: https://www.linangran.com.</string>
 	<string name="app_help">使用说明</string>
 	<string name="help">帮助</string>
+	<string name="accountRevoked">您的爱听优酷帐号已删除.</string>
+	<string name="action_login">登录</string>
+	<string name="action_refresh">刷新</string>
+	<string name="action_revoke">删除帐号</string>
+	<string name="app_intro">爱听优酷让您通过手机畅听所有优酷视频，您可以选择下载音频文件或在线播放。
+		\n登录Google帐号，首月免费试用，之后仅需$0.99/月。</string>
+	<string name="app_pricing">为什么爱听优酷不能免费使用?</string>
+	<string name="confirm_revoke">您确定吗?</string>
+	<string name="confirm_revoke_warning">警告：您的爱听优酷帐号将被永久性删除且无法恢复，尚未到期的订阅亦将作废且无法退款。您确定要删除帐号吗？</string>
+	<string name="logout">登出</string>
+	<string name="no">否</string>
+	<string name="welcome" formatted="false">欢迎回来，%s。您的爱听优酷服务期将于%s结束。</string>
+	<string name="yes">确定</string>
 </resources>

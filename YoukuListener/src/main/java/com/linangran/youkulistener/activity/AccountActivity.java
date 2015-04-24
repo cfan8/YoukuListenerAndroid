@@ -164,7 +164,7 @@ public class AccountActivity extends BaseActivity implements GoogleApiClient.Con
 				case R.id.menu_account_refresh:
 					return true;
 				case R.id.menu_account_revoke:
-					AlertDialog alertDialog = (new AlertDialog.Builder(this)).setTitle(R.string.confirmRevoke).setMessage(R.string.confirmRevokeWarning).setPositiveButton(R.string.yes, new DialogInterface.OnClickListener()
+					AlertDialog alertDialog = (new AlertDialog.Builder(this)).setTitle(R.string.confirm_revoke).setMessage(R.string.confirm_revoke_warning).setPositiveButton(R.string.yes, new DialogInterface.OnClickListener()
 					{
 						@Override
 						public void onClick(DialogInterface dialog, int which)

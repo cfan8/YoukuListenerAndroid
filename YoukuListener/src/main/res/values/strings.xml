@@ -11,15 +11,15 @@
 	<string name="app_pricing">Why this app can\'t be free?</string>
 	<string name="action_login">Login</string>
 	<string name="app_intro">Youku Listener allows you to listen to millions of videos that are available on
-		Youku.com. Audio files are provided in a single file for you to download or stream.\nSign in with your
+		Youku.com. One single audio file will be provided for you to download or stream.\nSign in with your
 		Google Account to have your first month free, while subsequent access is only $0.99/month.
 	</string>
 	<string name="welcome" formatted="false">Hello %s, it is good to have you here. You current subscription ends on %s."</string>
 	<string name="logout">Logout</string>
 	<string name="action_refresh">Refresh</string>
 	<string name="action_revoke">Delete Account</string>
-	<string name="confirmRevoke">Are you sure?</string>
-	<string name="confirmRevokeWarning">Your account on Youku Listener will be DELETED FOREVER! This is not a revocable action and you WILL NOT get a refund for your remaining subscription!</string>
+	<string name="confirm_revoke">Are you sure?</string>
+	<string name="confirm_revoke_warning">Your account on Youku Listener will be DELETED FOREVER! This is not a revocable action and you WILL NOT get a refund for your remaining subscription!</string>
 	<string name="yes">Yes</string>
 	<string name="no">No</string>
 	<string name="accountRevoked">Your Youku Listener account has been revoked.</string>
