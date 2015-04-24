@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="app_name">爱听优酷</string>
+	<string name="action_settings">设置</string>
+	<string name="hello_world">你们好！</string>
+	<string name="version_indicator">版本号: </string>
+	<string name="about">关于</string>
+	<string name="about_author">关于作者</string>
+	<string name="about_author_explain">请访问作者的博客: https://www.linangran.com.</string>
+	<string name="app_help">使用说明</string>
+	<string name="help">帮助</string>
+</resources>

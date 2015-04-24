@@ -1,8 +1,19 @@
 <resources>
 
 	<!-- Base application theme. -->
-	<style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+	<style name="YKListenerThemeBase" parent="Theme.AppCompat.Light.DarkActionBar">
 		<!-- Customize your theme here. -->
+	</style>
+
+
+	<style name="YKListenerTheme" parent="YKListenerThemeBase">
+		<!-- Customize your theme here. -->
+
+		<item name="colorPrimary">@color/LGreen</item>
+		<!--   darker variant for the status bar and contextual app bars -->
+		<item name="colorPrimaryDark">@color/LGreenDark</item>
+		<!--   theme UI controls like checkboxes and text fields -->
+		<item name="colorAccent">@color/LGreenAccent</item>
 	</style>
 
 </resources>

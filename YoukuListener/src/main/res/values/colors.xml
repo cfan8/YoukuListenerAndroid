@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<color name="LGreen">#009688</color>
+	<color name="LGreenDark">#00695F</color>
+	<color name="LGreenAccent">#FF66FF</color>
+</resources>

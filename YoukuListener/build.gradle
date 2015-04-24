@@ -18,7 +18,7 @@ android {
 
     defaultConfig {
         applicationId "com.linangran.youkulistener"
-        minSdkVersion 9
+        minSdkVersion 11
         targetSdkVersion 22
         versionCode 1
         versionName "1.0"
@@ -39,4 +39,5 @@ android {
 dependencies {
     compile fileTree(dir: 'libs', include: ['*.jar'])
     compile 'com.android.support:appcompat-v7:22.+'
+    compile 'com.google.android.gms:play-services:7.0.0'
 }

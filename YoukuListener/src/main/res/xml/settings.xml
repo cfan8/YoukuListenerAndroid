@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+	<PreferenceCategory
+			android:title="@string/help">
+		<Preference
+				android:key="help"
+				android:title="@string/app_help"/>
+		<Preference
+				android:key="pricing"
+				android:title="@string/app_pricing"/>
+	</PreferenceCategory>
+
+	<PreferenceCategory
+			android:title="@string/about">
+
+		<Preference
+				android:key="about_version"
+				android:title="@string/app_name"
+				android:summary="@string/version_indicator"/>
+
+		<Preference
+				android:key="about_author"
+				android:title="@string/about_author"
+				android:summary="@string/about_author_explain">
+
+			<intent
+					android:action="android.intent.action.VIEW"
+					android:data="http://www.linangran.com/?page_id=114"
+					/>
+
+		</Preference>
+	</PreferenceCategory>
+</PreferenceScreen>
