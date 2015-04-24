@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/YoukuListener.iml" filepath="$PROJECT_DIR$/YoukuListener.iml" />
+      <module fileurl="file://$PROJECT_DIR$/YoukuListener/YoukuListener-YoukuListener.iml" filepath="$PROJECT_DIR$/YoukuListener/YoukuListener-YoukuListener.iml" />
+    </modules>
+  </component>
+</project>
