@@ -11,7 +11,7 @@
 	<string name="app_pricing">Why this app can\'t be free?</string>
 	<string name="action_login">Login</string>
 	<string name="app_intro">Youku Listener allows you to listen to millions of videos that are available on
-		Youku.com. One single audio file will be provided for you to download or stream.\nSign in with your
+		Youku.com. Audio files will be provided for you to download or stream.\nSign in with your
 		Google Account to have your first month free, while subsequent access is only $0.99/month.
 	</string>
 	<string name="welcome" formatted="false">Hello %s, it is good to have you here. You current subscription ends on %s."</string>
